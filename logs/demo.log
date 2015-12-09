@@ -1,0 +1,243 @@
+2015-12-04 16:21:49.049 [main] INFO  TestMybatis - test
+2015-12-04 16:21:49.141 [main] INFO  TestMybatis - [{"address":"test","age":12,"id":"51ab9e34-6edc-47f6-929f-79c71b50e656","name":"kevin"},{"address":"asdffasfdas","age":33,"id":"4f35e3d4-6721-498d-b235-53ce6c30f5ea","name":"hello"},{"address":"3312312fasdfasdf","age":122,"id":"c6860a5f-2893-448d-9a9d-6261290a9c14","name":"asd"}]
+2015-12-04 16:21:49.196 [main] INFO  TestMybatis - "add 1"
+2015-12-04 16:21:49.307 [main] INFO  TestMybatis - "update 1"
+2015-12-04 16:21:49.336 [main] INFO  TestMybatis - "delete 1"
+2015-12-07 10:26:23.689 [main] INFO  TestMybatis - test
+2015-12-07 10:26:23.783 [main] INFO  TestMybatis - [{"address":"kkdfdhsne","age":23,"id":"1b2ef749-e61f-41cf-b549-21ec94427160","name":"aassd"},{"address":"American","age":34,"id":"bf76170e-a0d8-4b3e-b6af-46291a672c6d","name":"Main"},{"address":"adfsf","age":33,"id":"86a00fca-8592-4769-b413-11d0c5ca865d","name":"dfgsdfg"},{"address":"test","age":23,"id":"9e5953c1-abb1-4bc9-96d4-133b5b2ea55c","name":"Web"},{"address":"England","age":13,"id":"caac90c6-cc6d-472f-b512-623c1c3b3926","name":"Switch"},{"address":"阿发松岛枫阿斯蒂芬","age":32,"id":"5584b1d5-2e6a-4df9-9211-0e68ed62bceb","name":"知道"}]
+2015-12-07 10:26:23.884 [main] INFO  TestMybatis - "update 0"
+2015-12-07 10:26:23.890 [main] INFO  TestMybatis - "delete 0"
+2015-12-07 10:26:50.819 [main] INFO  TestMybatis - test
+2015-12-07 10:26:50.910 [main] INFO  TestMybatis - [{"address":"kkdfdhsne","age":23,"id":"1b2ef749-e61f-41cf-b549-21ec94427160","name":"aassd"},{"address":"American","age":34,"id":"bf76170e-a0d8-4b3e-b6af-46291a672c6d","name":"Main"},{"address":"adfsf","age":33,"id":"86a00fca-8592-4769-b413-11d0c5ca865d","name":"dfgsdfg"},{"address":"test","age":23,"id":"9e5953c1-abb1-4bc9-96d4-133b5b2ea55c","name":"Web"},{"address":"England","age":13,"id":"caac90c6-cc6d-472f-b512-623c1c3b3926","name":"Switch"},{"address":"阿发松岛枫阿斯蒂芬","age":32,"id":"5584b1d5-2e6a-4df9-9211-0e68ed62bceb","name":"知道"}]
+2015-12-07 10:26:51.007 [main] INFO  TestMybatis - "update 0"
+2015-12-07 10:26:51.014 [main] INFO  TestMybatis - "delete 0"
+2015-12-07 10:27:43.567 [main] INFO  TestMybatis - test
+2015-12-07 10:27:43.653 [main] INFO  TestMybatis - [{"address":"kkdfdhsne","age":23,"id":"1b2ef749-e61f-41cf-b549-21ec94427160","name":"aassd"},{"address":"American","age":34,"id":"bf76170e-a0d8-4b3e-b6af-46291a672c6d","name":"Main"},{"address":"adfsf","age":33,"id":"86a00fca-8592-4769-b413-11d0c5ca865d","name":"dfgsdfg"},{"address":"test","age":23,"id":"9e5953c1-abb1-4bc9-96d4-133b5b2ea55c","name":"Web"},{"address":"England","age":13,"id":"caac90c6-cc6d-472f-b512-623c1c3b3926","name":"Switch"},{"address":"阿发松岛枫阿斯蒂芬","age":32,"id":"5584b1d5-2e6a-4df9-9211-0e68ed62bceb","name":"知道"}]
+2015-12-07 10:27:43.666 [main] INFO  TestMybatis - "add 1"
+2015-12-07 10:27:43.700 [main] INFO  TestMybatis - "update 0"
+2015-12-07 10:27:43.706 [main] INFO  TestMybatis - "delete 0"
+2015-12-07 10:28:21.043 [main] INFO  TestMybatis - test
+2015-12-07 10:28:21.137 [main] INFO  TestMybatis - [{"address":"kkdfdhsne","age":23,"id":"1b2ef749-e61f-41cf-b549-21ec94427160","name":"aassd"},{"address":"American","age":34,"id":"bf76170e-a0d8-4b3e-b6af-46291a672c6d","name":"Main"},{"address":"adfsf","age":33,"id":"86a00fca-8592-4769-b413-11d0c5ca865d","name":"dfgsdfg"},{"address":"test","age":23,"id":"9e5953c1-abb1-4bc9-96d4-133b5b2ea55c","name":"Web"},{"address":"England","age":13,"id":"caac90c6-cc6d-472f-b512-623c1c3b3926","name":"Switch"},{"address":"阿发松岛枫阿斯蒂芬","age":32,"id":"5584b1d5-2e6a-4df9-9211-0e68ed62bceb","name":"知道"},{"address":"ABCD","age":28,"name":"aaaa"}]
+2015-12-07 10:28:21.150 [main] INFO  TestMybatis - "add 1"
+2015-12-07 10:28:21.183 [main] INFO  TestMybatis - "update 1"
+2015-12-07 10:28:21.191 [main] INFO  TestMybatis - "delete 1"
+2015-12-09 10:50:09.569 [main] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} inited
+2015-12-09 10:50:10.611 [main] INFO  TestMybatis - test
+2015-12-09 10:50:10.794 [main] INFO  TestMybatis - [{"address":"test","age":12,"id":"51ab9e34-6edc-47f6-929f-79c71b50e656","name":"kevin"},{"address":"asdffasfdas","age":33,"id":"4f35e3d4-6721-498d-b235-53ce6c30f5ea","name":"hello"},{"address":"3312312fasdfasdf","age":122,"id":"c6860a5f-2893-448d-9a9d-6261290a9c14","name":"asd"}]
+2015-12-09 10:50:10.892 [main] INFO  TestMybatis - "add 1"
+2015-12-09 10:50:11.013 [main] INFO  TestMybatis - "update 1"
+2015-12-09 10:50:11.055 [main] INFO  TestMybatis - "delete 1"
+2015-12-09 10:50:11.106 [Thread-1] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} closed
+2015-12-09 11:09:38.928 [localhost-startStop-1] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} inited
+2015-12-09 11:21:14.131 [localhost-startStop-1] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} inited
+2015-12-09 11:40:56.501 [main] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} inited
+2015-12-09 11:40:57.144 [main] INFO  TestMybatis - test
+2015-12-09 11:40:57.191 [main] INFO  TestMybatis - [{"id":"51ab9e34-6edc-47f6-929f-79c71b50e656","name":"kevin","age":12,"address":"test"},{"id":"4f35e3d4-6721-498d-b235-53ce6c30f5ea","name":"hello","age":33,"address":"asdffasfdas"},{"id":"c6860a5f-2893-448d-9a9d-6261290a9c14","name":"asd","age":122,"address":"3312312fasdfasdf"}]
+2015-12-09 11:40:57.260 [main] INFO  TestMybatis - add 1
+2015-12-09 11:40:57.353 [main] INFO  TestMybatis - update 1
+2015-12-09 11:40:57.467 [main] INFO  TestMybatis - delete 1
+2015-12-09 11:41:18.634 [localhost-startStop-1] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} inited
+2015-12-09 11:42:59.670 [localhost-startStop-1] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} inited
+2015-12-09 11:45:44.947 [localhost-startStop-1] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} inited
+2015-12-09 11:47:38.602 [localhost-startStop-1] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} inited
+2015-12-09 11:48:40.153 [localhost-startStop-1] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} inited
+2015-12-09 11:51:46.240 [localhost-startStop-1] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} inited
+2015-12-09 11:53:02.492 [localhost-startStop-1] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} inited
+2015-12-09 13:38:53.127 [localhost-startStop-1] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} inited
+2015-12-09 13:42:08.871 [localhost-startStop-1] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} inited
+2015-12-09 13:45:10.846 [localhost-startStop-1] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} inited
+2015-12-09 13:46:48.292 [localhost-startStop-1] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} inited
+2015-12-09 13:54:31.500 [main] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} inited
+2015-12-09 13:54:32.129 [main] INFO  TestMybatis - test
+2015-12-09 13:54:32.176 [main] INFO  TestMybatis - [{"id":"51ab9e34-6edc-47f6-929f-79c71b50e656","name":"kevin","age":12,"address":"test"},{"id":"4f35e3d4-6721-498d-b235-53ce6c30f5ea","name":"hello","age":33,"address":"asdffasfdas"},{"id":"16b7d15d-7ac9-480b-8493-bc965b67d5f9","name":"MotherFucker","age":25,"address":"aaaaa"}]
+2015-12-09 13:54:32.247 [main] INFO  TestMybatis - add 1
+2015-12-09 13:54:32.292 [main] INFO  TestMybatis - update 1
+2015-12-09 13:54:32.312 [main] INFO  TestMybatis - delete 1
+2015-12-09 13:56:39.647 [localhost-startStop-1] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} inited
+2015-12-09 13:57:19.833 [http-bio-80-exec-1] ERROR com.alibaba.druid.support.http.ResourceServlet - initParameter config error, allow : ${jdbc.allow.ip}
+java.lang.IllegalArgumentException: Invalid IP Address [${jdbc.allow.ip}]
+	at com.alibaba.druid.support.http.util.IPAddress.parseIPAddress(IPAddress.java:267) ~[druid-1.0.16.jar:1.0.16]
+	at com.alibaba.druid.support.http.util.IPAddress.<init>(IPAddress.java:122) ~[druid-1.0.16.jar:1.0.16]
+	at com.alibaba.druid.support.http.util.IPRange.parseRange(IPRange.java:123) ~[druid-1.0.16.jar:1.0.16]
+	at com.alibaba.druid.support.http.util.IPRange.<init>(IPRange.java:64) ~[druid-1.0.16.jar:1.0.16]
+	at com.alibaba.druid.support.http.ResourceServlet.initAuthEnv(ResourceServlet.java:91) [druid-1.0.16.jar:1.0.16]
+	at com.alibaba.druid.support.http.ResourceServlet.init(ResourceServlet.java:61) [druid-1.0.16.jar:1.0.16]
+	at com.alibaba.druid.support.http.StatViewServlet.init(StatViewServlet.java:65) [druid-1.0.16.jar:1.0.16]
+	at javax.servlet.GenericServlet.init(GenericServlet.java:160) [tomcat-embed-core-7.0.30.jar:7.0.30]
+	at org.apache.catalina.core.StandardWrapper.initServlet(StandardWrapper.java:1266) [tomcat-embed-core-7.0.30.jar:7.0.30]
+	at org.apache.catalina.core.StandardWrapper.loadServlet(StandardWrapper.java:1185) [tomcat-embed-core-7.0.30.jar:7.0.30]
+	at org.apache.catalina.core.StandardWrapper.allocate(StandardWrapper.java:857) [tomcat-embed-core-7.0.30.jar:7.0.30]
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:136) [tomcat-embed-core-7.0.30.jar:7.0.30]
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:123) [tomcat-embed-core-7.0.30.jar:7.0.30]
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:472) [tomcat-embed-core-7.0.30.jar:7.0.30]
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:168) [tomcat-embed-core-7.0.30.jar:7.0.30]
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:99) [tomcat-embed-core-7.0.30.jar:7.0.30]
+	at org.apache.catalina.valves.AccessLogValve.invoke(AccessLogValve.java:929) [tomcat-embed-core-7.0.30.jar:7.0.30]
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:118) [tomcat-embed-core-7.0.30.jar:7.0.30]
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:407) [tomcat-embed-core-7.0.30.jar:7.0.30]
+	at org.apache.coyote.http11.AbstractHttp11Processor.process(AbstractHttp11Processor.java:1002) [tomcat-embed-core-7.0.30.jar:7.0.30]
+	at org.apache.coyote.AbstractProtocol$AbstractConnectionHandler.process(AbstractProtocol.java:585) [tomcat-embed-core-7.0.30.jar:7.0.30]
+	at org.apache.tomcat.util.net.JIoEndpoint$SocketProcessor.run(JIoEndpoint.java:310) [tomcat-embed-core-7.0.30.jar:7.0.30]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145) [?:1.7.0_75]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615) [?:1.7.0_75]
+	at java.lang.Thread.run(Thread.java:745) [?:1.7.0_75]
+Caused by: java.lang.NumberFormatException: For input string: "${jdbc"
+	at java.lang.NumberFormatException.forInputString(NumberFormatException.java:65) ~[?:1.7.0_75]
+	at java.lang.Integer.parseInt(Integer.java:481) ~[?:1.7.0_75]
+	at java.lang.Integer.parseInt(Integer.java:527) ~[?:1.7.0_75]
+	at com.alibaba.druid.support.http.util.IPAddress.parseIPAddress(IPAddress.java:239) ~[druid-1.0.16.jar:1.0.16]
+	... 24 more
+2015-12-09 13:57:19.838 [http-bio-80-exec-1] ERROR com.alibaba.druid.support.http.ResourceServlet - initParameter config error, deny : ${jdbc.deny.ip}
+java.lang.IllegalArgumentException: Invalid IP Address [${jdbc.deny.ip}]
+	at com.alibaba.druid.support.http.util.IPAddress.parseIPAddress(IPAddress.java:267) ~[druid-1.0.16.jar:1.0.16]
+	at com.alibaba.druid.support.http.util.IPAddress.<init>(IPAddress.java:122) ~[druid-1.0.16.jar:1.0.16]
+	at com.alibaba.druid.support.http.util.IPRange.parseRange(IPRange.java:123) ~[druid-1.0.16.jar:1.0.16]
+	at com.alibaba.druid.support.http.util.IPRange.<init>(IPRange.java:64) ~[druid-1.0.16.jar:1.0.16]
+	at com.alibaba.druid.support.http.ResourceServlet.initAuthEnv(ResourceServlet.java:111) [druid-1.0.16.jar:1.0.16]
+	at com.alibaba.druid.support.http.ResourceServlet.init(ResourceServlet.java:61) [druid-1.0.16.jar:1.0.16]
+	at com.alibaba.druid.support.http.StatViewServlet.init(StatViewServlet.java:65) [druid-1.0.16.jar:1.0.16]
+	at javax.servlet.GenericServlet.init(GenericServlet.java:160) [tomcat-embed-core-7.0.30.jar:7.0.30]
+	at org.apache.catalina.core.StandardWrapper.initServlet(StandardWrapper.java:1266) [tomcat-embed-core-7.0.30.jar:7.0.30]
+	at org.apache.catalina.core.StandardWrapper.loadServlet(StandardWrapper.java:1185) [tomcat-embed-core-7.0.30.jar:7.0.30]
+	at org.apache.catalina.core.StandardWrapper.allocate(StandardWrapper.java:857) [tomcat-embed-core-7.0.30.jar:7.0.30]
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:136) [tomcat-embed-core-7.0.30.jar:7.0.30]
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:123) [tomcat-embed-core-7.0.30.jar:7.0.30]
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:472) [tomcat-embed-core-7.0.30.jar:7.0.30]
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:168) [tomcat-embed-core-7.0.30.jar:7.0.30]
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:99) [tomcat-embed-core-7.0.30.jar:7.0.30]
+	at org.apache.catalina.valves.AccessLogValve.invoke(AccessLogValve.java:929) [tomcat-embed-core-7.0.30.jar:7.0.30]
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:118) [tomcat-embed-core-7.0.30.jar:7.0.30]
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:407) [tomcat-embed-core-7.0.30.jar:7.0.30]
+	at org.apache.coyote.http11.AbstractHttp11Processor.process(AbstractHttp11Processor.java:1002) [tomcat-embed-core-7.0.30.jar:7.0.30]
+	at org.apache.coyote.AbstractProtocol$AbstractConnectionHandler.process(AbstractProtocol.java:585) [tomcat-embed-core-7.0.30.jar:7.0.30]
+	at org.apache.tomcat.util.net.JIoEndpoint$SocketProcessor.run(JIoEndpoint.java:310) [tomcat-embed-core-7.0.30.jar:7.0.30]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145) [?:1.7.0_75]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615) [?:1.7.0_75]
+	at java.lang.Thread.run(Thread.java:745) [?:1.7.0_75]
+Caused by: java.lang.NumberFormatException: For input string: "${jdbc"
+	at java.lang.NumberFormatException.forInputString(NumberFormatException.java:65) ~[?:1.7.0_75]
+	at java.lang.Integer.parseInt(Integer.java:481) ~[?:1.7.0_75]
+	at java.lang.Integer.parseInt(Integer.java:527) ~[?:1.7.0_75]
+	at com.alibaba.druid.support.http.util.IPAddress.parseIPAddress(IPAddress.java:239) ~[druid-1.0.16.jar:1.0.16]
+	... 24 more
+2015-12-09 14:00:57.995 [localhost-startStop-1] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} inited
+2015-12-09 14:01:03.168 [http-bio-80-exec-1] ERROR com.alibaba.druid.support.http.ResourceServlet - initParameter config error, allow : ${jdbc.allow.ip}
+java.lang.IllegalArgumentException: Invalid IP Address [${jdbc.allow.ip}]
+	at com.alibaba.druid.support.http.util.IPAddress.parseIPAddress(IPAddress.java:267) ~[druid-1.0.16.jar:1.0.16]
+	at com.alibaba.druid.support.http.util.IPAddress.<init>(IPAddress.java:122) ~[druid-1.0.16.jar:1.0.16]
+	at com.alibaba.druid.support.http.util.IPRange.parseRange(IPRange.java:123) ~[druid-1.0.16.jar:1.0.16]
+	at com.alibaba.druid.support.http.util.IPRange.<init>(IPRange.java:64) ~[druid-1.0.16.jar:1.0.16]
+	at com.alibaba.druid.support.http.ResourceServlet.initAuthEnv(ResourceServlet.java:91) [druid-1.0.16.jar:1.0.16]
+	at com.alibaba.druid.support.http.ResourceServlet.init(ResourceServlet.java:61) [druid-1.0.16.jar:1.0.16]
+	at com.alibaba.druid.support.http.StatViewServlet.init(StatViewServlet.java:65) [druid-1.0.16.jar:1.0.16]
+	at javax.servlet.GenericServlet.init(GenericServlet.java:160) [tomcat-embed-core-7.0.30.jar:7.0.30]
+	at org.apache.catalina.core.StandardWrapper.initServlet(StandardWrapper.java:1266) [tomcat-embed-core-7.0.30.jar:7.0.30]
+	at org.apache.catalina.core.StandardWrapper.loadServlet(StandardWrapper.java:1185) [tomcat-embed-core-7.0.30.jar:7.0.30]
+	at org.apache.catalina.core.StandardWrapper.allocate(StandardWrapper.java:857) [tomcat-embed-core-7.0.30.jar:7.0.30]
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:136) [tomcat-embed-core-7.0.30.jar:7.0.30]
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:123) [tomcat-embed-core-7.0.30.jar:7.0.30]
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:472) [tomcat-embed-core-7.0.30.jar:7.0.30]
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:168) [tomcat-embed-core-7.0.30.jar:7.0.30]
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:99) [tomcat-embed-core-7.0.30.jar:7.0.30]
+	at org.apache.catalina.valves.AccessLogValve.invoke(AccessLogValve.java:929) [tomcat-embed-core-7.0.30.jar:7.0.30]
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:118) [tomcat-embed-core-7.0.30.jar:7.0.30]
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:407) [tomcat-embed-core-7.0.30.jar:7.0.30]
+	at org.apache.coyote.http11.AbstractHttp11Processor.process(AbstractHttp11Processor.java:1002) [tomcat-embed-core-7.0.30.jar:7.0.30]
+	at org.apache.coyote.AbstractProtocol$AbstractConnectionHandler.process(AbstractProtocol.java:585) [tomcat-embed-core-7.0.30.jar:7.0.30]
+	at org.apache.tomcat.util.net.JIoEndpoint$SocketProcessor.run(JIoEndpoint.java:310) [tomcat-embed-core-7.0.30.jar:7.0.30]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145) [?:1.7.0_75]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615) [?:1.7.0_75]
+	at java.lang.Thread.run(Thread.java:745) [?:1.7.0_75]
+Caused by: java.lang.NumberFormatException: For input string: "${jdbc"
+	at java.lang.NumberFormatException.forInputString(NumberFormatException.java:65) ~[?:1.7.0_75]
+	at java.lang.Integer.parseInt(Integer.java:481) ~[?:1.7.0_75]
+	at java.lang.Integer.parseInt(Integer.java:527) ~[?:1.7.0_75]
+	at com.alibaba.druid.support.http.util.IPAddress.parseIPAddress(IPAddress.java:239) ~[druid-1.0.16.jar:1.0.16]
+	... 24 more
+2015-12-09 14:01:03.188 [http-bio-80-exec-1] ERROR com.alibaba.druid.support.http.ResourceServlet - initParameter config error, deny : ${jdbc.deny.ip}
+java.lang.IllegalArgumentException: Invalid IP Address [${jdbc.deny.ip}]
+	at com.alibaba.druid.support.http.util.IPAddress.parseIPAddress(IPAddress.java:267) ~[druid-1.0.16.jar:1.0.16]
+	at com.alibaba.druid.support.http.util.IPAddress.<init>(IPAddress.java:122) ~[druid-1.0.16.jar:1.0.16]
+	at com.alibaba.druid.support.http.util.IPRange.parseRange(IPRange.java:123) ~[druid-1.0.16.jar:1.0.16]
+	at com.alibaba.druid.support.http.util.IPRange.<init>(IPRange.java:64) ~[druid-1.0.16.jar:1.0.16]
+	at com.alibaba.druid.support.http.ResourceServlet.initAuthEnv(ResourceServlet.java:111) [druid-1.0.16.jar:1.0.16]
+	at com.alibaba.druid.support.http.ResourceServlet.init(ResourceServlet.java:61) [druid-1.0.16.jar:1.0.16]
+	at com.alibaba.druid.support.http.StatViewServlet.init(StatViewServlet.java:65) [druid-1.0.16.jar:1.0.16]
+	at javax.servlet.GenericServlet.init(GenericServlet.java:160) [tomcat-embed-core-7.0.30.jar:7.0.30]
+	at org.apache.catalina.core.StandardWrapper.initServlet(StandardWrapper.java:1266) [tomcat-embed-core-7.0.30.jar:7.0.30]
+	at org.apache.catalina.core.StandardWrapper.loadServlet(StandardWrapper.java:1185) [tomcat-embed-core-7.0.30.jar:7.0.30]
+	at org.apache.catalina.core.StandardWrapper.allocate(StandardWrapper.java:857) [tomcat-embed-core-7.0.30.jar:7.0.30]
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:136) [tomcat-embed-core-7.0.30.jar:7.0.30]
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:123) [tomcat-embed-core-7.0.30.jar:7.0.30]
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:472) [tomcat-embed-core-7.0.30.jar:7.0.30]
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:168) [tomcat-embed-core-7.0.30.jar:7.0.30]
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:99) [tomcat-embed-core-7.0.30.jar:7.0.30]
+	at org.apache.catalina.valves.AccessLogValve.invoke(AccessLogValve.java:929) [tomcat-embed-core-7.0.30.jar:7.0.30]
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:118) [tomcat-embed-core-7.0.30.jar:7.0.30]
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:407) [tomcat-embed-core-7.0.30.jar:7.0.30]
+	at org.apache.coyote.http11.AbstractHttp11Processor.process(AbstractHttp11Processor.java:1002) [tomcat-embed-core-7.0.30.jar:7.0.30]
+	at org.apache.coyote.AbstractProtocol$AbstractConnectionHandler.process(AbstractProtocol.java:585) [tomcat-embed-core-7.0.30.jar:7.0.30]
+	at org.apache.tomcat.util.net.JIoEndpoint$SocketProcessor.run(JIoEndpoint.java:310) [tomcat-embed-core-7.0.30.jar:7.0.30]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145) [?:1.7.0_75]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615) [?:1.7.0_75]
+	at java.lang.Thread.run(Thread.java:745) [?:1.7.0_75]
+Caused by: java.lang.NumberFormatException: For input string: "${jdbc"
+	at java.lang.NumberFormatException.forInputString(NumberFormatException.java:65) ~[?:1.7.0_75]
+	at java.lang.Integer.parseInt(Integer.java:481) ~[?:1.7.0_75]
+	at java.lang.Integer.parseInt(Integer.java:527) ~[?:1.7.0_75]
+	at com.alibaba.druid.support.http.util.IPAddress.parseIPAddress(IPAddress.java:239) ~[druid-1.0.16.jar:1.0.16]
+	... 24 more
+2015-12-09 14:01:50.019 [localhost-startStop-1] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} inited
+2015-12-09 14:02:48.334 [localhost-startStop-1] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} inited
+2015-12-09 14:04:28.851 [localhost-startStop-1] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} inited
+2015-12-09 14:22:02.177 [localhost-startStop-1] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} inited
+2015-12-09 14:41:46.025 [localhost-startStop-1] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} inited
+2015-12-09 14:41:46.257 [localhost-startStop-1] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} closed
+2015-12-09 14:43:42.498 [localhost-startStop-1] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} inited
+2015-12-09 14:45:33.256 [localhost-startStop-1] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} inited
+2015-12-09 14:46:31.273 [localhost-startStop-1] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} inited
+2015-12-09 14:47:21.055 [localhost-startStop-1] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} inited
+2015-12-09 14:48:48.708 [main] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} inited
+2015-12-09 14:48:49.179 [Thread-1] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} closed
+2015-12-09 15:13:30.527 [main] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} inited
+2015-12-09 15:14:35.689 [localhost-startStop-1] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} inited
+2015-12-09 15:16:01.319 [localhost-startStop-1] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} inited
+2015-12-09 15:16:01.495 [localhost-startStop-1] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} closed
+2015-12-09 15:16:59.372 [localhost-startStop-1] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} inited
+2015-12-09 15:17:46.331 [main] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} inited
+2015-12-09 15:17:46.839 [main] INFO  com.kevin.sm.test.TestMybatis - test
+2015-12-09 15:17:46.963 [main] INFO  com.kevin.sm.test.TestMybatis - [{"id":"51ab9e34-6edc-47f6-929f-79c71b50e656","name":"kevin","age":12,"address":"test2"},{"id":"4f35e3d4-6721-498d-b235-53ce6c30f5ea","name":"hello","age":33,"address":"asafdasf"},{"id":"16b7d15d-7ac9-480b-8493-bc965b67d5f9","name":"MotherFucker","age":25,"address":"aaaaa"}]
+2015-12-09 15:17:47.019 [main] INFO  com.kevin.sm.test.TestMybatis - add 1
+2015-12-09 15:17:47.086 [main] INFO  com.kevin.sm.test.TestMybatis - update 1
+2015-12-09 15:17:47.146 [main] INFO  com.kevin.sm.test.TestMybatis - delete 1
+2015-12-09 15:17:47.162 [Thread-1] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} closed
+2015-12-09 15:18:52.406 [main] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} inited
+2015-12-09 15:18:52.903 [main] INFO  com.kevin.sm.test.TestMybatis - test
+2015-12-09 15:18:53.032 [main] INFO  com.kevin.sm.test.TestMybatis - [{"id":"51ab9e34-6edc-47f6-929f-79c71b50e656","name":"kevin","age":12,"address":"test2"},{"id":"4f35e3d4-6721-498d-b235-53ce6c30f5ea","name":"hello","age":33,"address":"asafdasf"},{"id":"16b7d15d-7ac9-480b-8493-bc965b67d5f9","name":"MotherFucker","age":25,"address":"aaaaa"}]
+2015-12-09 15:18:53.067 [main] INFO  com.kevin.sm.test.TestMybatis - add 1
+2015-12-09 15:18:53.112 [main] INFO  com.kevin.sm.test.TestMybatis - update 1
+2015-12-09 15:18:53.166 [main] INFO  com.kevin.sm.test.TestMybatis - delete 1
+2015-12-09 15:18:53.173 [Thread-1] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} closed
+2015-12-09 15:30:09.907 [main] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} inited
+2015-12-09 15:30:10.465 [main] INFO  com.kevin.sm.test.TestMybatis - test
+2015-12-09 15:30:10.515 [main] INFO  com.kevin.sm.test.TestMybatis - [{"id":"51ab9e34-6edc-47f6-929f-79c71b50e656","name":"kevin","age":12,"address":"test2"},{"id":"4f35e3d4-6721-498d-b235-53ce6c30f5ea","name":"hello","age":33,"address":"asafdasf"},{"id":"16b7d15d-7ac9-480b-8493-bc965b67d5f9","name":"MotherFucker","age":25,"address":"aaaaa"}]
+2015-12-09 15:30:10.766 [main] INFO  com.kevin.sm.test.TestMybatis - add 1
+2015-12-09 15:30:10.846 [main] INFO  com.kevin.sm.test.TestMybatis - update 1
+2015-12-09 15:30:10.896 [main] INFO  com.kevin.sm.test.TestMybatis - delete 1
+2015-12-09 15:30:22.682 [localhost-startStop-1] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} inited
+2015-12-09 16:59:16.681 [main] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} inited
+2015-12-09 16:59:17.212 [main] INFO  com.kevin.sm.test.TestMybatis - test
+2015-12-09 16:59:17.260 [main] INFO  com.kevin.sm.test.TestMybatis - [{"id":"51ab9e34-6edc-47f6-929f-79c71b50e656","name":"kevin","age":12,"address":"test2"},{"id":"4f35e3d4-6721-498d-b235-53ce6c30f5ea","name":"hello","age":33,"address":"asafdasf"},{"id":"16b7d15d-7ac9-480b-8493-bc965b67d5f9","name":"MotherFucker","age":25,"address":"aaaaa"}]
+2015-12-09 16:59:17.327 [main] INFO  com.kevin.sm.test.TestMybatis - add 1
+2015-12-09 16:59:17.404 [main] INFO  com.kevin.sm.test.TestMybatis - update 1
+2015-12-09 16:59:17.466 [main] INFO  com.kevin.sm.test.TestMybatis - delete 1
+2015-12-09 16:59:17.481 [Thread-1] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} closed
+2015-12-09 16:59:25.621 [localhost-startStop-1] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} inited
+2015-12-09 17:03:18.875 [main] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} inited
+2015-12-09 17:03:19.413 [main] INFO  com.kevin.sm.test.TestMybatis - test
+2015-12-09 17:03:19.461 [main] INFO  com.kevin.sm.test.TestMybatis - [{"id":"51ab9e34-6edc-47f6-929f-79c71b50e656","name":"kevin","age":12,"address":"test2ddd"},{"id":"4f35e3d4-6721-498d-b235-53ce6c30f5ea","name":"hello","age":33,"address":"asafdasf"},{"id":"16b7d15d-7ac9-480b-8493-bc965b67d5f9","name":"MotherFucker","age":25,"address":"aaaaa"}]
+2015-12-09 17:03:19.510 [main] INFO  com.kevin.sm.test.TestMybatis - add 1
+2015-12-09 17:03:19.554 [main] INFO  com.kevin.sm.test.TestMybatis - update 1
+2015-12-09 17:03:19.576 [main] INFO  com.kevin.sm.test.TestMybatis - delete 1
+2015-12-09 17:03:19.584 [Thread-1] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} closed
+2015-12-09 17:03:28.100 [localhost-startStop-1] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} inited
